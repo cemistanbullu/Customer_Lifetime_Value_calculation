@@ -7,4 +7,4 @@
 - Purchase Frequency = Total Number Of Orders / Total Number Of Customers
 - Churn Rate = 1 - Repeat Rate
 ***
-
+###### Dataset: https://archive.ics.uci.edu/ml/datasets/Online+Retail+II#
